@@ -1,0 +1,7 @@
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\bin\NewSpotyHitss.dll.config
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\bin\NewSpotyHitss.dll
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\bin\NewSpotyHitss.pdb
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\obj\Debug\NewSpotyHitss.csprojAssemblyReference.cache
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\obj\Debug\NewSpotyHitss.csproj.CoreCompileInputs.cache
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\obj\Debug\NewSpotyHitss.dll
+C:\Users\carrascoja\source\repos\NewSpotyHitss\NewSpotyHitss\NewSpotyHitss\obj\Debug\NewSpotyHitss.pdb
